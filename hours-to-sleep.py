@@ -46,3 +46,5 @@ elif old == 9 and hours_of_sleep >=7 and hours_of_sleep <=8:
     print('You sleep the recommended amount (7-8)')
 elif old == 9 and hours_of_sleep <7 or hours_of_sleep > 8:
     print("You need to sleep between 7-8 hours a day")
+
+input()
